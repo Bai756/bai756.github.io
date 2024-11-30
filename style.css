@@ -16,6 +16,14 @@ body {
 }
 
 .border {
-    border: 3px solid black;
-    padding: 10px;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: blue;
 }
