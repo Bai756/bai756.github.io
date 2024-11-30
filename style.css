@@ -21,15 +21,16 @@ body {
 }
 
 h1 {
-    background-color: rgb(152, 206, 224);
+    background-color: rgb(114, 194, 221);
 }
 
 p {
-    background-color: rgb(152, 206, 224);
+    background-color: rgb(114, 194, 221);
 }
 
 image {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 50%;
 }
