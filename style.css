@@ -5,6 +5,7 @@ body {
 
 .center {
     margin: auto;
+    text-align: center;
 }
 
 .footer {
@@ -20,9 +21,9 @@ body {
 }
 
 h1 {
-    background-color: blue;
+    color: rgb(152, 206, 224);
 }
 
 p {
-    background-color: blue;
+    color: rgb(152, 206, 224);
 }
