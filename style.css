@@ -8,15 +8,15 @@ body {
     margin: auto;
 }
 
-.top-border {
+.full-border {
     border: 2px solid black;
     padding: 5px;
 }
 
 .border {
-    border-top: none;
     border: 2px solid black;
     padding: 5px;
+    border-top: none;
 }
 
 h1 {
