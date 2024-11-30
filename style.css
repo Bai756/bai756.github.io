@@ -1,14 +1,15 @@
 body {
-    background-color: lightblue;
+    background-color:#566D7E;
     font-family: Arial, sans-serif;
 }
 
 .center {
     display: flex;
-    align-items: center;
     text-align: center;
 }
 
 .footer {
-    
+    position: fixed;
+    left: 0;
+    bottom: 0;
 }
