@@ -1,5 +1,5 @@
 body {
-    background-color:#EEEEEE;
+    background-color: #EEEEEE;
     font-family: Arial, sans-serif;
 }
 
@@ -17,8 +17,10 @@ body {
 
 h1 {
     border: 3px solid black;
+    padding: 10px;
 }
 
 p {
     border: 3px solid black;
+    padding: 10px;
 }
