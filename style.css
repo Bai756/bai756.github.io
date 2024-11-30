@@ -1,5 +1,5 @@
 body {
-    background-color: #EEEEEE;
+    background-color: lightblue;
     font-family: Arial, sans-serif;
 }
 
@@ -15,12 +15,7 @@ body {
     border: 3px solid black;
 }
 
-h1 {
-    border: 3px solid black;
-    padding: 10px;
-}
-
-p {
+.border {
     border: 3px solid black;
     padding: 10px;
 }
