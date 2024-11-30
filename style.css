@@ -8,12 +8,6 @@ body {
     margin: auto;
 }
 
-.footer {
-    left: 0;
-    bottom: 0;
-    border: 3px solid black;
-}
-
 .border {
     border: 2px solid black;
     padding: 5px;
