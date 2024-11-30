@@ -4,8 +4,8 @@ body {
 }
 
 .center {
-    margin: auto;
     text-align: center;
+    margin: auto;
 }
 
 .footer {
@@ -21,16 +21,13 @@ body {
 }
 
 h1 {
-    color: rgb(114, 194, 221);
+    color: rgb(49, 157, 193);
 }
 
 p {
-    color: rgb(114, 194, 221);
+    color: rgb(49, 157, 193);
 }
 
-image {
-    width: 200px;
-    height: 200px;
-    position: absolute;
-    left: 50%;
+h2 {
+    color: rgb(49, 157, 193);
 }
