@@ -15,8 +15,8 @@ body {
 
 .border {
     border: 2px solid black;
-    padding: 5px;
     border-top: none;
+    padding: 5px;
 }
 
 h1 {
