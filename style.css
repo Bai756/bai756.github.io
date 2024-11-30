@@ -4,8 +4,7 @@ body {
 }
 
 .center {
-    display: flex;
-    text-align: center;
+    margin: auto;
 }
 
 .footer {
